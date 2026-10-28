@@ -1,7 +1,7 @@
 # Account-wide Sponsor button — applies to every martenzi repo that lacks
-# its own FUNDING.yml. Nothing is displayed until a line is uncommented.
-# See docs/guides/github/sponsorship-setup.md for platform signup steps.
-github: [martenzi]            # GitHub Sponsors — needs Sponsors profile enabled
+# its own FUNDING.yml. NOTHING shows until a line is uncommented.
+# Setup steps per platform: see sponsorship-setup guide.
+# github: [martenzi]          # GitHub Sponsors — needs Sponsors profile enabled
 # ko_fi: YOUR_NAME
 # buy_me_a_coffee: YOUR_NAME
 # patreon: YOUR_NAME
